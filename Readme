@@ -1,0 +1,18 @@
+Comandos de terminal 
+abrir terminal integrada en VSC "ctr"+"shift"+"p"-> Terminal integrated on workspace
+npm init --yes
+crear proyecto de node
+
+Instalar los modulos a nececitar
+
+npm i express express-handlebars express-session method-override mongoose passport passport-local bcryptjs connect-flash
+
+express- framework de Node.js
+express-handlebars-integrar motor de plantillas (extender el HTML)
+express-sesion-Sesiones dentro del servidor
+method-everride- para utilizar un hack para Metodos get y put 
+mongoose- modulo de conexion a la BD
+passport-
+passport-local 
+bcryptjs-Cifrar contraseña-convertir a Hash
+connect-flash-para enviar mensajes entre multiples vistas
