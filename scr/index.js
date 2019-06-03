@@ -32,7 +32,7 @@ app.use(require('./routes/index'));
 app.use(require('./routes/notes'));
 app.use(require('./routes/users'));
 //Static Files ()
-app.use(express.static(path.join(_dirname,'public')));
+app.use(express.static(path.join(__dirname,'public')));
 //Server is listenning
 app.listen(app.get('port'),()=>{
     console.log('Server on port',app.get('port'));
