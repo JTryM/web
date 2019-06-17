@@ -1,4 +1,4 @@
-Comandos de terminal 
+Comandos de terminal /*Para tutorial de You Tube - en el canal que FaztWeb
 abrir terminal integrada en VSC "ctr"+"shift"+"p"-> Terminal integrated on workspace
 npm init --yes
 crear proyecto de node
@@ -16,3 +16,4 @@ passport-
 passport-local 
 bcryptjs-Cifrar contraseña-convertir a Hash
 connect-flash-para enviar mensajes entre multiples vistas
+npm run dev para iniciar el proyecto
