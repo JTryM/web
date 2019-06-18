@@ -16,7 +16,7 @@ method-everride- para utilizar un hack para Metodos get, delete y put
 mongoose- modulo de conexion a la BD
 passport-
 passport-local 
-bcryptjs-Cifrar contraseña-convertir a Hashç
+bcryptjs-Cifrar contraseña-convertir a Hash
 
 connect-flash-para enviar mensajes entre multiples vistas
 
