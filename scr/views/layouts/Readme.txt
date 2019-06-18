@@ -1,0 +1,1 @@
+Layout es un término de la lengua inglesa que no forma parte del diccionario de la Real Academia Española (RAE). El concepto puede traducirse como “disposición” o “plan” y tiene un uso extendido en el ámbito de la tecnología.
