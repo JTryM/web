@@ -5,6 +5,7 @@ https://definicion.de/layout
 
     Page layout, the arrangement of visual elements on a page
         Comprehensive layout (comp), a proposed page layout presented by a designer to their client
+        
     Layout (computing), the process of calculating the position of objects in space
     Layout engine, another name for web browser engine, the core software that displays content in a web browser
     Automobile layout, a description of the locations of the engine and drive wheels on a vehicle
@@ -18,3 +19,5 @@ https://definicion.de/layout
     Process layout, a floor plan of a plant that arranges equipment according to its function
     Product layout, a floor plan of a plant in which work stations and equipment are ordered by assembly sequence
  https://en.wikipedia.org/wiki/Layout
+
+Esquema de distribución
