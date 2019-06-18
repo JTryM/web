@@ -20,6 +20,5 @@ bcryptjs-Cifrar contraseña-convertir a Hashç
 
 connect-flash-para enviar mensajes entre multiples vistas
 
-
 npm run dev para iniciar el proyecto
 
