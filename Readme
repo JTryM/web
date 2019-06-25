@@ -20,5 +20,5 @@ bcryptjs-Cifrar contraseña-convertir a Hash
 
 connect-flash-para enviar mensajes entre multiples vistas
 
-npm run dev para iniciar el proyecto
+npm run dev para iniciar el proyecto en local-host
 
